@@ -1,25 +1,27 @@
 {
   "version": 1,
-  "date": "2026-10-11",
+  "date": "2026-10-14",
+  "alphabetDate": "2026-10-11",
+  "sourceEntryId": "PLANNING-01",
   "title": "Planning ahead",
   "quip": "MY PLAN FOR SAVING TIME IS TO STOP MAKING PLANS.",
   "cipherAlphabet": "QWERTYUIOPASDFGHJKLZXCVBNM",
   "patternKey": "CLOCKWORK",
   "hintPlain": "E",
-  "readerCards": [
-    {
-      "kind": "clue",
-      "date": "2026-10-11",
-      "title": "Clue 1",
-      "path": "cards/2026-10-11/clue-1.svg"
-    }
-  ],
   "machine": {
     "version": 1,
     "wordType": "A noun",
     "clue": "A mechanism driven by gears",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
-  }
+  },
+  "readerCards": [
+    {
+      "kind": "clue",
+      "date": "2026-10-14",
+      "title": "Clue 1",
+      "path": "cards/2026-10-14/clue-1.svg",
+      "text": "CIPHER T MEANS E."
+    }
+  ]
 }
-
