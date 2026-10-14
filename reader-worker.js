@@ -1,0 +1,1 @@
+import{e as r}from"./chunks/RVQ2VV2W.js";self.onmessage=async({data:e})=>{try{if(!e.alphabetData)throw Error("Load the daily alphabet first.");let s=await r(e.gray,e.width,e.height,e.alphabetData,e.secret||"",!1,e.corners||null,t=>self.postMessage({progress:t}));self.postMessage({result:s})}catch(s){self.postMessage({error:s.message})}};

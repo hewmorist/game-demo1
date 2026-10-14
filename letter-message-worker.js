@@ -1,0 +1,1 @@
+import{d as s}from"./chunks/RVQ2VV2W.js";self.onmessage=async({data:e})=>{try{self.postMessage({svg:await s(e.symbols,e.alphabetData,"",!1,e.secret||"")})}catch(a){self.postMessage({error:a.message})}};
