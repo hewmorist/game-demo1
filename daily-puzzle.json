@@ -1,27 +1,34 @@
 {
   "version": 1,
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "PLANNING-01",
-  "title": "Planning ahead",
-  "quip": "MY PLAN FOR SAVING TIME IS TO STOP MAKING PLANS.",
-  "cipherAlphabet": "QWERTYUIOPASDFGHJKLZXCVBNM",
-  "patternKey": "CLOCKWORK",
+  "sourceEntryId": "GENERATED-2026-10-15",
+  "title": "Cold reception",
+  "quip": "MY SMART FRIDGE SENDS ME ALERTS. MY OLD FRIDGE JUST GAVE ME THE COLD SHOULDER.",
+  "cipherAlphabet": "EAIZOXFSUCMWLPBVTNYRGQKHDJ",
+  "patternKey": "BOOKMARK",
   "hintPlain": "E",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A mechanism driven by gears",
+    "clue": "It keeps your place in a book between visits.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "title": "Clue 1",
-      "path": "cards/2026-10-14/clue-1.svg",
-      "text": "CIPHER T MEANS E."
+      "path": "cards/2026-10-15/clue-1.svg",
+      "text": "CIPHER O MEANS E."
+    },
+    {
+      "kind": "answer",
+      "date": "2026-10-14",
+      "title": "Answer for 2026-10-14 · part 1",
+      "path": "cards/2026-10-15/answer-1.svg",
+      "text": "MY PLAN FOR SAVING TIME IS TO STOP MAKING PLANS."
     }
   ]
 }
