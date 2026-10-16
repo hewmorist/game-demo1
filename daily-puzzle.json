@@ -1,34 +1,34 @@
 {
   "version": 1,
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-15",
-  "title": "Cold reception",
-  "quip": "MY SMART FRIDGE SENDS ME ALERTS. MY OLD FRIDGE JUST GAVE ME THE COLD SHOULDER.",
-  "cipherAlphabet": "EAIZOXFSUCMWLPBVTNYRGQKHDJ",
-  "patternKey": "BOOKMARK",
+  "sourceEntryId": "GENERATED-2026-10-16",
+  "title": "Independent reading",
+  "quip": "I BOUGHT A SELF HELP BOOK. IT ASKED ME TO LEAVE IT ALONE.",
+  "cipherAlphabet": "XZNOGDEVKHJIYPFSRTWUCQBMLA",
+  "patternKey": "BACKSPACE",
   "hintPlain": "E",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "It keeps your place in a book between visits.",
+    "clue": "A keyboard key that removes what came just before the cursor.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "title": "Clue 1",
-      "path": "cards/2026-10-15/clue-1.svg",
-      "text": "CIPHER O MEANS E."
+      "path": "cards/2026-10-16/clue-1.svg",
+      "text": "CIPHER G MEANS E."
     },
     {
       "kind": "answer",
-      "date": "2026-10-14",
-      "title": "Answer for 2026-10-14 · part 1",
-      "path": "cards/2026-10-15/answer-1.svg",
-      "text": "MY PLAN FOR SAVING TIME IS TO STOP MAKING PLANS."
+      "date": "2026-10-15",
+      "title": "Answer for 2026-10-15 · part 1",
+      "path": "cards/2026-10-16/answer-1.svg",
+      "text": "MY SMART FRIDGE SENDS ME ALERTS. MY OLD FRIDGE JUST GAVE ME THE COLD SHOULDER."
     }
   ]
 }
