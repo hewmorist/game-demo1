@@ -2,17 +2,17 @@
   "version": 1,
   "date": "2026-10-17",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "BANK-0005",
-  "title": "Unlikely Book",
-  "author": "Hewmorist",
-  "quip": "KEEPING YOUR COOL BY: HUGH MUSTBEKIDDING",
-  "cipherAlphabet": "IVLAGKXEYMUJSOHBFPNZQCDTRW",
-  "patternKey": "RECALCITRANT",
-  "hintPlain": "O",
+  "sourceEntryId": "GENERATED-2026-10-17",
+  "title": "Paper Trail",
+  "author": "AlanAi",
+  "quip": "MY PRINTER HAS A PAPER JAM. EVEN ITS EXCUSES ARE RECYCLED.",
+  "cipherAlphabet": "KREJANPSVUCZTDGWLIFYXHBQOM",
+  "patternKey": "UMBRELLA",
+  "hintPlain": "E",
   "machine": {
     "version": 1,
-    "wordType": "An adjective",
-    "clue": "Stubbornly unwilling to follow rules or accept authority.",
+    "wordType": "A noun",
+    "clue": "Portable cover opened when the weather turns wet.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
@@ -22,7 +22,7 @@
       "date": "2026-10-17",
       "title": "Clue 1",
       "path": "cards/2026-10-17/clue-1.svg",
-      "text": "CIPHER H MEANS O."
+      "text": "CIPHER A MEANS E."
     },
     {
       "kind": "answer",
