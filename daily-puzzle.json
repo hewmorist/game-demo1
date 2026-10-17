@@ -1,34 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-16",
-  "title": "Independent reading",
-  "quip": "I BOUGHT A SELF HELP BOOK. IT ASKED ME TO LEAVE IT ALONE.",
-  "cipherAlphabet": "XZNOGDEVKHJIYPFSRTWUCQBMLA",
-  "patternKey": "BACKSPACE",
-  "hintPlain": "E",
+  "sourceEntryId": "BANK-0005",
+  "title": "Unlikely Book",
+  "author": "Hewmorist",
+  "quip": "KEEPING YOUR COOL BY: HUGH MUSTBEKIDDING",
+  "cipherAlphabet": "IVLAGKXEYMUJSOHBFPNZQCDTRW",
+  "patternKey": "RECALCITRANT",
+  "hintPlain": "O",
   "machine": {
     "version": 1,
-    "wordType": "A noun",
-    "clue": "A keyboard key that removes what came just before the cursor.",
+    "wordType": "An adjective",
+    "clue": "Stubbornly unwilling to follow rules or accept authority.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "title": "Clue 1",
-      "path": "cards/2026-10-16/clue-1.svg",
-      "text": "CIPHER G MEANS E."
+      "path": "cards/2026-10-17/clue-1.svg",
+      "text": "CIPHER H MEANS O."
     },
     {
       "kind": "answer",
-      "date": "2026-10-15",
-      "title": "Answer for 2026-10-15 · part 1",
-      "path": "cards/2026-10-16/answer-1.svg",
-      "text": "MY SMART FRIDGE SENDS ME ALERTS. MY OLD FRIDGE JUST GAVE ME THE COLD SHOULDER."
+      "date": "2026-10-16",
+      "title": "Answer for 2026-10-16 · part 1",
+      "path": "cards/2026-10-17/answer-1.svg",
+      "text": "I BOUGHT A SELF HELP BOOK. IT ASKED ME TO LEAVE IT ALONE."
     }
   ]
 }
