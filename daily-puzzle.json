@@ -2,17 +2,17 @@
   "version": 1,
   "date": "2026-10-17",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-17",
-  "title": "Paper Trail",
+  "sourceEntryId": "GENERATED-2026-10-17-TEST-2",
+  "title": "Date Trouble",
   "author": "AlanAi",
-  "quip": "MY PRINTER HAS A PAPER JAM. EVEN ITS EXCUSES ARE RECYCLED.",
-  "cipherAlphabet": "KREJANPSVUCZTDGWLIFYXHBQOM",
-  "patternKey": "UMBRELLA",
-  "hintPlain": "E",
+  "quip": "MY CALENDAR AND I HAVE TRUST ISSUES. ITS DAYS ARE NUMBERED.",
+  "cipherAlphabet": "GXNSKCDEWBPJZRUOYHQITALMFV",
+  "patternKey": "SIDETRACK",
+  "hintPlain": "A",
   "machine": {
     "version": 1,
-    "wordType": "A noun",
-    "clue": "Portable cover opened when the weather turns wet.",
+    "wordType": "A verb",
+    "clue": "To divert from the main purpose.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
@@ -22,7 +22,7 @@
       "date": "2026-10-17",
       "title": "Clue 1",
       "path": "cards/2026-10-17/clue-1.svg",
-      "text": "CIPHER A MEANS E."
+      "text": "CIPHER G MEANS A."
     },
     {
       "kind": "answer",
