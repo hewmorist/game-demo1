@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-17-TEST-2",
-  "title": "Date Trouble",
+  "sourceEntryId": "GENERATED-2026-10-18",
+  "title": "Kitchen Critic",
   "author": "AlanAi",
-  "quip": "MY CALENDAR AND I HAVE TRUST ISSUES. ITS DAYS ARE NUMBERED.",
-  "cipherAlphabet": "GXNSKCDEWBPJZRUOYHQITALMFV",
-  "patternKey": "SIDETRACK",
-  "hintPlain": "A",
+  "quip": "MY SMART FRIDGE LOCKED ME OUT. APPARENTLY I HAVE BAD TASTE.",
+  "cipherAlphabet": "WHJCIOAZUEGNQKRMDSLPXYBTFV",
+  "patternKey": "BACKPEDAL",
+  "hintPlain": "R",
   "machine": {
     "version": 1,
     "wordType": "A verb",
-    "clue": "To divert from the main purpose.",
+    "clue": "To retreat from a claim after meeting resistance.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "title": "Clue 1",
-      "path": "cards/2026-10-17/clue-1.svg",
-      "text": "CIPHER G MEANS A."
+      "path": "cards/2026-10-18/clue-1.svg",
+      "text": "CIPHER S MEANS R."
     },
     {
       "kind": "answer",
-      "date": "2026-10-16",
-      "title": "Answer for 2026-10-16 · part 1",
-      "path": "cards/2026-10-17/answer-1.svg",
-      "text": "I BOUGHT A SELF HELP BOOK. IT ASKED ME TO LEAVE IT ALONE."
+      "date": "2026-10-17",
+      "title": "Answer for 2026-10-17 · part 1",
+      "path": "cards/2026-10-18/answer-1.svg",
+      "text": "MY CALENDAR AND I HAVE TRUST ISSUES. ITS DAYS ARE NUMBERED."
     }
   ]
 }
