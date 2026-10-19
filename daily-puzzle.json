@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-18",
-  "title": "Kitchen Critic",
+  "sourceEntryId": "GENERATED-2026-10-19",
+  "title": "Invisible Ink",
   "author": "AlanAi",
-  "quip": "MY SMART FRIDGE LOCKED ME OUT. APPARENTLY I HAVE BAD TASTE.",
-  "cipherAlphabet": "WHJCIOAZUEGNQKRMDSLPXYBTFV",
-  "patternKey": "BACKPEDAL",
-  "hintPlain": "R",
+  "quip": "I HIRED A GHOSTWRITER. NOW MY MEMOIRS KEEP DISAPPEARING.",
+  "cipherAlphabet": "ZKLOGHTVDFPBRYCUIEXSNJAWQM",
+  "patternKey": "AFTERGLOW",
+  "hintPlain": "N",
   "machine": {
     "version": 1,
-    "wordType": "A verb",
-    "clue": "To retreat from a claim after meeting resistance.",
+    "wordType": "A noun",
+    "clue": "Light that lingers after its source has faded.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "title": "Clue 1",
-      "path": "cards/2026-10-18/clue-1.svg",
-      "text": "CIPHER S MEANS R."
+      "path": "cards/2026-10-19/clue-1.svg",
+      "text": "CIPHER Y MEANS N."
     },
     {
       "kind": "answer",
-      "date": "2026-10-17",
-      "title": "Answer for 2026-10-17 · part 1",
-      "path": "cards/2026-10-18/answer-1.svg",
-      "text": "MY CALENDAR AND I HAVE TRUST ISSUES. ITS DAYS ARE NUMBERED."
+      "date": "2026-10-18",
+      "title": "Answer for 2026-10-18 · part 1",
+      "path": "cards/2026-10-19/answer-1.svg",
+      "text": "MY SMART FRIDGE LOCKED ME OUT. APPARENTLY I HAVE BAD TASTE."
     }
   ]
 }
