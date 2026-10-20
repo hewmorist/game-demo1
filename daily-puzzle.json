@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-19",
-  "title": "Invisible Ink",
+  "sourceEntryId": "GENERATED-2026-10-20",
+  "title": "Growing Demands",
   "author": "AlanAi",
-  "quip": "I HIRED A GHOSTWRITER. NOW MY MEMOIRS KEEP DISAPPEARING.",
-  "cipherAlphabet": "ZKLOGHTVDFPBRYCUIEXSNJAWQM",
-  "patternKey": "AFTERGLOW",
-  "hintPlain": "N",
+  "quip": "MY HOUSEPLANTS FORMED A UNION. THEY WANT PAID LEAF.",
+  "cipherAlphabet": "JSOCKPIYMTBDLRVZAHGFNQXEWU",
+  "patternKey": "TIGHTROPE",
+  "hintPlain": "T",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "Light that lingers after its source has faded.",
+    "clue": "A high wire that demands a careful balance.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "title": "Clue 1",
-      "path": "cards/2026-10-19/clue-1.svg",
-      "text": "CIPHER Y MEANS N."
+      "path": "cards/2026-10-20/clue-1.svg",
+      "text": "CIPHER F MEANS T."
     },
     {
       "kind": "answer",
-      "date": "2026-10-18",
-      "title": "Answer for 2026-10-18 · part 1",
-      "path": "cards/2026-10-19/answer-1.svg",
-      "text": "MY SMART FRIDGE LOCKED ME OUT. APPARENTLY I HAVE BAD TASTE."
+      "date": "2026-10-19",
+      "title": "Answer for 2026-10-19 · part 1",
+      "path": "cards/2026-10-20/answer-1.svg",
+      "text": "I HIRED A GHOSTWRITER. NOW MY MEMOIRS KEEP DISAPPEARING."
     }
   ]
 }
