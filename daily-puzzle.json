@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-20",
-  "title": "Growing Demands",
+  "sourceEntryId": "GENERATED-2026-10-21",
+  "title": "Domestic Negotiations",
   "author": "AlanAi",
-  "quip": "MY HOUSEPLANTS FORMED A UNION. THEY WANT PAID LEAF.",
-  "cipherAlphabet": "JSOCKPIYMTBDLRVZAHGFNQXEWU",
-  "patternKey": "TIGHTROPE",
-  "hintPlain": "T",
+  "quip": "MY ROBOT VACUUM ASKED FOR A RAISE. IT SAYS THE WORK SUCKS.",
+  "cipherAlphabet": "NZVCDYSUOBATELQFMPWXKRIGJH",
+  "patternKey": "BLUEPRINT",
+  "hintPlain": "O",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A high wire that demands a careful balance.",
+    "clue": "A detailed plan drawn before construction begins.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "title": "Clue 1",
-      "path": "cards/2026-10-20/clue-1.svg",
-      "text": "CIPHER F MEANS T."
+      "path": "cards/2026-10-21/clue-1.svg",
+      "text": "CIPHER Q MEANS O."
     },
     {
       "kind": "answer",
-      "date": "2026-10-19",
-      "title": "Answer for 2026-10-19 · part 1",
-      "path": "cards/2026-10-20/answer-1.svg",
-      "text": "I HIRED A GHOSTWRITER. NOW MY MEMOIRS KEEP DISAPPEARING."
+      "date": "2026-10-20",
+      "title": "Answer for 2026-10-20 · part 1",
+      "path": "cards/2026-10-21/answer-1.svg",
+      "text": "MY HOUSEPLANTS FORMED A UNION. THEY WANT PAID LEAF."
     }
   ]
 }
