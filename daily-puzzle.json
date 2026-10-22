@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-21",
-  "title": "Domestic Negotiations",
+  "sourceEntryId": "GENERATED-2026-10-22",
+  "title": "Credential Crisis",
   "author": "AlanAi",
-  "quip": "MY ROBOT VACUUM ASKED FOR A RAISE. IT SAYS THE WORK SUCKS.",
-  "cipherAlphabet": "NZVCDYSUOBATELQFMPWXKRIGJH",
-  "patternKey": "BLUEPRINT",
-  "hintPlain": "O",
+  "quip": "MY PASSWORD MANAGER FORGOT ME. NOW WE BOTH NEED A RESET.",
+  "cipherAlphabet": "HWUPCGVRQKJIDOAEXSLBNTZYFM",
+  "patternKey": "UNDERTOW",
+  "hintPlain": "E",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A detailed plan drawn before construction begins.",
+    "clue": "A current that pulls beneath the surface.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "title": "Clue 1",
-      "path": "cards/2026-10-21/clue-1.svg",
-      "text": "CIPHER Q MEANS O."
+      "path": "cards/2026-10-22/clue-1.svg",
+      "text": "CIPHER C MEANS E."
     },
     {
       "kind": "answer",
-      "date": "2026-10-20",
-      "title": "Answer for 2026-10-20 · part 1",
-      "path": "cards/2026-10-21/answer-1.svg",
-      "text": "MY HOUSEPLANTS FORMED A UNION. THEY WANT PAID LEAF."
+      "date": "2026-10-21",
+      "title": "Answer for 2026-10-21 · part 1",
+      "path": "cards/2026-10-22/answer-1.svg",
+      "text": "MY ROBOT VACUUM ASKED FOR A RAISE. IT SAYS THE WORK SUCKS."
     }
   ]
 }
