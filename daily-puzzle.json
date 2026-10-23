@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-22",
-  "title": "Credential Crisis",
+  "sourceEntryId": "GENERATED-2026-10-23",
+  "title": "Clocking Out",
   "author": "AlanAi",
-  "quip": "MY PASSWORD MANAGER FORGOT ME. NOW WE BOTH NEED A RESET.",
-  "cipherAlphabet": "HWUPCGVRQKJIDOAEXSLBNTZYFM",
-  "patternKey": "UNDERTOW",
+  "quip": "MY ALARM CLOCK QUIT. IT WAS TIRED OF WORKING OVERTIME.",
+  "cipherAlphabet": "UEIPFBWCDNLASYKTXZHGQOVJRM",
+  "patternKey": "DAYDREAM",
   "hintPlain": "E",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A current that pulls beneath the surface.",
+    "clue": "A pleasant drift of thought away from the present.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "title": "Clue 1",
-      "path": "cards/2026-10-22/clue-1.svg",
-      "text": "CIPHER C MEANS E."
+      "path": "cards/2026-10-23/clue-1.svg",
+      "text": "CIPHER F MEANS E."
     },
     {
       "kind": "answer",
-      "date": "2026-10-21",
-      "title": "Answer for 2026-10-21 · part 1",
-      "path": "cards/2026-10-22/answer-1.svg",
-      "text": "MY ROBOT VACUUM ASKED FOR A RAISE. IT SAYS THE WORK SUCKS."
+      "date": "2026-10-22",
+      "title": "Answer for 2026-10-22 · part 1",
+      "path": "cards/2026-10-23/answer-1.svg",
+      "text": "MY PASSWORD MANAGER FORGOT ME. NOW WE BOTH NEED A RESET."
     }
   ]
 }
