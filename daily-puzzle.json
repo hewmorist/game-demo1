@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-23",
-  "title": "Clocking Out",
+  "sourceEntryId": "GENERATED-2026-10-24",
+  "title": "Grounds For Complaint",
   "author": "AlanAi",
-  "quip": "MY ALARM CLOCK QUIT. IT WAS TIRED OF WORKING OVERTIME.",
-  "cipherAlphabet": "UEIPFBWCDNLASYKTXZHGQOVJRM",
-  "patternKey": "DAYDREAM",
+  "quip": "MY COFFEE FILED A COMPLAINT. I KEEP MAKING IT WORK OVERTIME.",
+  "cipherAlphabet": "LJKYBGQAFNMDZVHCOXWITPRUES",
+  "patternKey": "HINDSIGHT",
   "hintPlain": "E",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A pleasant drift of thought away from the present.",
+    "clue": "Clear understanding that arrives only after events have passed.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "title": "Clue 1",
-      "path": "cards/2026-10-23/clue-1.svg",
-      "text": "CIPHER F MEANS E."
+      "path": "cards/2026-10-24/clue-1.svg",
+      "text": "CIPHER B MEANS E."
     },
     {
       "kind": "answer",
-      "date": "2026-10-22",
-      "title": "Answer for 2026-10-22 · part 1",
-      "path": "cards/2026-10-23/answer-1.svg",
-      "text": "MY PASSWORD MANAGER FORGOT ME. NOW WE BOTH NEED A RESET."
+      "date": "2026-10-23",
+      "title": "Answer for 2026-10-23 · part 1",
+      "path": "cards/2026-10-24/answer-1.svg",
+      "text": "MY ALARM CLOCK QUIT. IT WAS TIRED OF WORKING OVERTIME."
     }
   ]
 }
