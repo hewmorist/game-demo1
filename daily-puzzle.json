@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-25",
-  "title": "Offline Holiday",
+  "sourceEntryId": "GENERATED-2026-10-26",
+  "title": "Second Opinion",
   "author": "AlanAi",
-  "quip": "MY WIFI WENT ON VACATION. IT LEFT ME WITH NO CONNECTIONS.",
-  "cipherAlphabet": "RHNPSDATUCFBOIEQGLJXVYMZKW",
-  "patternKey": "CROSSWIND",
-  "hintPlain": "I",
+  "quip": "MY MIRROR ASKED FOR A SECOND OPINION. IT DOES NOT REFLECT WELL ON ME.",
+  "cipherAlphabet": "UFJKARXWNBVQHOELSYCMPDTZIG",
+  "patternKey": "MOONLIGHT",
+  "hintPlain": "E",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A current of air moving across the direction of travel.",
+    "clue": "Work done in addition to one's regular job.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "title": "Clue 1",
-      "path": "cards/2026-10-25/clue-1.svg",
-      "text": "CIPHER U MEANS I."
+      "path": "cards/2026-10-26/clue-1.svg",
+      "text": "CIPHER A MEANS E."
     },
     {
       "kind": "answer",
-      "date": "2026-10-24",
-      "title": "Answer for 2026-10-24 · part 1",
-      "path": "cards/2026-10-25/answer-1.svg",
-      "text": "MY COFFEE FILED A COMPLAINT. I KEEP MAKING IT WORK OVERTIME."
+      "date": "2026-10-25",
+      "title": "Answer for 2026-10-25 · part 1",
+      "path": "cards/2026-10-26/answer-1.svg",
+      "text": "MY WIFI WENT ON VACATION. IT LEFT ME WITH NO CONNECTIONS."
     }
   ]
 }
