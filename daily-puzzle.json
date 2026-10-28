@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-27",
-  "title": "Group Effort",
+  "sourceEntryId": "GENERATED-2026-10-28",
+  "title": "Future Expenses",
   "author": "AlanAi",
-  "quip": "NOTHING SAYS TEAMWORK LIKE SIX PEOPLE DEBATING A SINGLE COMMA.",
-  "cipherAlphabet": "XNFMHLYBUGRODVKSTPWACIJZEQ",
-  "patternKey": "SIDELINES",
-  "hintPlain": "S",
+  "quip": "WHY CONSULT A CRYSTAL BALL WHEN A RECEIPT CAN PREDICT REGRET?",
+  "cipherAlphabet": "OPRTFBUJQNEKSDMAXZHWVYCGIL",
+  "patternKey": "CHECKMATE",
+  "hintPlain": "R",
   "machine": {
     "version": 1,
-    "wordType": "A plural noun",
-    "clue": "The edges of a playing field, away from the action.",
+    "wordType": "A noun",
+    "clue": "A final position from which a king cannot escape.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "title": "Clue 1",
-      "path": "cards/2026-10-27/clue-1.svg",
-      "text": "CIPHER W MEANS S."
+      "path": "cards/2026-10-28/clue-1.svg",
+      "text": "CIPHER Z MEANS R."
     },
     {
       "kind": "answer",
-      "date": "2026-10-26",
-      "title": "Answer for 2026-10-26 · part 1",
-      "path": "cards/2026-10-27/answer-1.svg",
-      "text": "MY MIRROR ASKED FOR A SECOND OPINION. IT DOES NOT REFLECT WELL ON ME."
+      "date": "2026-10-27",
+      "title": "Answer for 2026-10-27 · part 1",
+      "path": "cards/2026-10-28/answer-1.svg",
+      "text": "NOTHING SAYS TEAMWORK LIKE SIX PEOPLE DEBATING A SINGLE COMMA."
     }
   ]
 }
