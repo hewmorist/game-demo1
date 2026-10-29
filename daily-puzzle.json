@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-28",
-  "title": "Future Expenses",
+  "sourceEntryId": "GENERATED-2026-10-29",
+  "title": "Going Once",
   "author": "AlanAi",
-  "quip": "WHY CONSULT A CRYSTAL BALL WHEN A RECEIPT CAN PREDICT REGRET?",
-  "cipherAlphabet": "OPRTFBUJQNEKSDMAXZHWVYCGIL",
-  "patternKey": "CHECKMATE",
-  "hintPlain": "R",
+  "quip": "AT AN AUCTION, EVEN AN EXPENSIVE MISTAKE COMES WITH APPLAUSE.",
+  "cipherAlphabet": "EHONLBVSWIURKAJDMGZXCTFPQY",
+  "patternKey": "FOOTNOTE",
+  "hintPlain": "N",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A final position from which a king cannot escape.",
+    "clue": "A small addition placed at the bottom of a page.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "title": "Clue 1",
-      "path": "cards/2026-10-28/clue-1.svg",
-      "text": "CIPHER Z MEANS R."
+      "path": "cards/2026-10-29/clue-1.svg",
+      "text": "CIPHER A MEANS N."
     },
     {
       "kind": "answer",
-      "date": "2026-10-27",
-      "title": "Answer for 2026-10-27 · part 1",
-      "path": "cards/2026-10-28/answer-1.svg",
-      "text": "NOTHING SAYS TEAMWORK LIKE SIX PEOPLE DEBATING A SINGLE COMMA."
+      "date": "2026-10-28",
+      "title": "Answer for 2026-10-28 · part 1",
+      "path": "cards/2026-10-29/answer-1.svg",
+      "text": "WHY CONSULT A CRYSTAL BALL WHEN A RECEIPT CAN PREDICT REGRET?"
     }
   ]
 }
