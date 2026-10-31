@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-30",
-  "title": "Light Reading",
+  "sourceEntryId": "GENERATED-2026-10-31",
+  "title": "Rave Reviews",
   "author": "AlanAi",
-  "quip": "OPTIMISM IS TAKING A NOVEL ON A HOLIDAY WITH THREE TODDLERS.",
-  "cipherAlphabet": "IEYCUJWXZMSKODTHFGVBRLANPQ",
-  "patternKey": "WANDERLUST",
-  "hintPlain": "O",
+  "quip": "BOO IS THE ONLY BAD REVIEW A GHOST TAKES AS A COMPLIMENT.",
+  "cipherAlphabet": "DFHGIBVTLEXCRJQUOSNZYMAPKW",
+  "patternKey": "MASQUERADE",
+  "hintPlain": "A",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A strong desire to travel beyond familiar places.",
+    "clue": "A gathering at which guests conceal their identities behind masks.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "title": "Clue 1",
-      "path": "cards/2026-10-30/clue-1.svg",
-      "text": "CIPHER T MEANS O."
+      "path": "cards/2026-10-31/clue-1.svg",
+      "text": "CIPHER D MEANS A."
     },
     {
       "kind": "answer",
-      "date": "2026-10-29",
-      "title": "Answer for 2026-10-29 · part 1",
-      "path": "cards/2026-10-30/answer-1.svg",
-      "text": "AT AN AUCTION, EVEN AN EXPENSIVE MISTAKE COMES WITH APPLAUSE."
+      "date": "2026-10-30",
+      "title": "Answer for 2026-10-30 · part 1",
+      "path": "cards/2026-10-31/answer-1.svg",
+      "text": "OPTIMISM IS TAKING A NOVEL ON A HOLIDAY WITH THREE TODDLERS."
     }
   ]
 }
