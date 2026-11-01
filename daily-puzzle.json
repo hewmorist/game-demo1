@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-10-31",
-  "title": "Rave Reviews",
+  "sourceEntryId": "GENERATED-2026-11-01",
+  "title": "On The Line",
   "author": "AlanAi",
-  "quip": "BOO IS THE ONLY BAD REVIEW A GHOST TAKES AS A COMPLIMENT.",
-  "cipherAlphabet": "DFHGIBVTLEXCRJQUOSNZYMAPKW",
-  "patternKey": "MASQUERADE",
-  "hintPlain": "A",
+  "quip": "PLEASE HOLD: THE ONLY CONCERT WHERE EVERYONE WANTS TO HANG UP.",
+  "cipherAlphabet": "QDNXPLIGAHRTKOVBSWECJYZFUM",
+  "patternKey": "TURNSTILE",
+  "hintPlain": "H",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A gathering at which guests conceal their identities behind masks.",
+    "clue": "A rotating barrier that admits one person at a time.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "title": "Clue 1",
-      "path": "cards/2026-10-31/clue-1.svg",
-      "text": "CIPHER D MEANS A."
+      "path": "cards/2026-11-01/clue-1.svg",
+      "text": "CIPHER G MEANS H."
     },
     {
       "kind": "answer",
-      "date": "2026-10-30",
-      "title": "Answer for 2026-10-30 · part 1",
-      "path": "cards/2026-10-31/answer-1.svg",
-      "text": "OPTIMISM IS TAKING A NOVEL ON A HOLIDAY WITH THREE TODDLERS."
+      "date": "2026-10-31",
+      "title": "Answer for 2026-10-31 · part 1",
+      "path": "cards/2026-11-01/answer-1.svg",
+      "text": "BOO IS THE ONLY BAD REVIEW A GHOST TAKES AS A COMPLIMENT."
     }
   ]
 }
