@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-01",
-  "title": "On The Line",
+  "sourceEntryId": "GENERATED-2026-11-02",
+  "title": "Small Talk",
   "author": "AlanAi",
-  "quip": "PLEASE HOLD: THE ONLY CONCERT WHERE EVERYONE WANTS TO HANG UP.",
-  "cipherAlphabet": "QDNXPLIGAHRTKOVBSWECJYZFUM",
-  "patternKey": "TURNSTILE",
-  "hintPlain": "H",
+  "quip": "FREE SAMPLES ARE PAID FOR IN AWKWARD CONVERSATION.",
+  "cipherAlphabet": "UGJXRBFQLODKNWYEVAISTZCHPM",
+  "patternKey": "CROSSFIRE",
+  "hintPlain": "R",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A rotating barrier that admits one person at a time.",
+    "clue": "A barrage coming from two or more directions.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "title": "Clue 1",
-      "path": "cards/2026-11-01/clue-1.svg",
-      "text": "CIPHER G MEANS H."
+      "path": "cards/2026-11-02/clue-1.svg",
+      "text": "CIPHER A MEANS R."
     },
     {
       "kind": "answer",
-      "date": "2026-10-31",
-      "title": "Answer for 2026-10-31 · part 1",
-      "path": "cards/2026-11-01/answer-1.svg",
-      "text": "BOO IS THE ONLY BAD REVIEW A GHOST TAKES AS A COMPLIMENT."
+      "date": "2026-11-01",
+      "title": "Answer for 2026-11-01 · part 1",
+      "path": "cards/2026-11-02/answer-1.svg",
+      "text": "PLEASE HOLD: THE ONLY CONCERT WHERE EVERYONE WANTS TO HANG UP."
     }
   ]
 }
