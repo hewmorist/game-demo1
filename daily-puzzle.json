@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-03",
-  "title": "Family History",
+  "sourceEntryId": "GENERATED-2026-11-04",
+  "title": "Kitchen Mystery",
   "author": "AlanAi",
-  "quip": "HISTORY IS WRITTEN BY THE WINNERS AND CORRECTED BY THEIR SIBLINGS.",
-  "cipherAlphabet": "VWSIZGUJTXEDAKRQMPHCOFLYNB",
-  "patternKey": "WATERSHED",
-  "hintPlain": "I",
+  "quip": "A RECIPE IS A SHORT STORY WITH A LIST OF SUSPECTS AT THE TOP.",
+  "cipherAlphabet": "LZFGWXNYMHQDEKJVBIUSCATORP",
+  "patternKey": "AFTERTASTE",
+  "hintPlain": "S",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A turning point that divides what came before from what follows.",
+    "clue": "A lingering impression left by a meal or an experience.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "title": "Clue 1",
-      "path": "cards/2026-11-03/clue-1.svg",
-      "text": "CIPHER T MEANS I."
+      "path": "cards/2026-11-04/clue-1.svg",
+      "text": "CIPHER U MEANS S."
     },
     {
       "kind": "answer",
-      "date": "2026-11-02",
-      "title": "Answer for 2026-11-02 · part 1",
-      "path": "cards/2026-11-03/answer-1.svg",
-      "text": "FREE SAMPLES ARE PAID FOR IN AWKWARD CONVERSATION."
+      "date": "2026-11-03",
+      "title": "Answer for 2026-11-03 · part 1",
+      "path": "cards/2026-11-04/answer-1.svg",
+      "text": "HISTORY IS WRITTEN BY THE WINNERS AND CORRECTED BY THEIR SIBLINGS."
     }
   ]
 }
