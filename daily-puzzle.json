@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-04",
-  "title": "Kitchen Mystery",
+  "sourceEntryId": "GENERATED-2026-11-05",
+  "title": "Cross Examination",
   "author": "AlanAi",
-  "quip": "A RECIPE IS A SHORT STORY WITH A LIST OF SUSPECTS AT THE TOP.",
-  "cipherAlphabet": "LZFGWXNYMHQDEKJVBIUSCATORP",
-  "patternKey": "AFTERTASTE",
-  "hintPlain": "S",
+  "quip": "OBJECTION, YOUR HONOR. THAT ANSWER UNDERMINES MY ENTIRE QUESTION.",
+  "cipherAlphabet": "FSLBKGHEDOAPVWRJMTNUZQXYIC",
+  "patternKey": "SNOWDRIFT",
+  "hintPlain": "N",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A lingering impression left by a meal or an experience.",
+    "clue": "A mound that the wind builds during a winter storm.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "title": "Clue 1",
-      "path": "cards/2026-11-04/clue-1.svg",
-      "text": "CIPHER U MEANS S."
+      "path": "cards/2026-11-05/clue-1.svg",
+      "text": "CIPHER W MEANS N."
     },
     {
       "kind": "answer",
-      "date": "2026-11-03",
-      "title": "Answer for 2026-11-03 · part 1",
-      "path": "cards/2026-11-04/answer-1.svg",
-      "text": "HISTORY IS WRITTEN BY THE WINNERS AND CORRECTED BY THEIR SIBLINGS."
+      "date": "2026-11-04",
+      "title": "Answer for 2026-11-04 · part 1",
+      "path": "cards/2026-11-05/answer-1.svg",
+      "text": "A RECIPE IS A SHORT STORY WITH A LIST OF SUSPECTS AT THE TOP."
     }
   ]
 }
