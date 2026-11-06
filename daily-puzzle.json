@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-05",
-  "title": "Cross Examination",
+  "sourceEntryId": "GENERATED-2026-11-06",
+  "title": "Quiet Carriage",
   "author": "AlanAi",
-  "quip": "OBJECTION, YOUR HONOR. THAT ANSWER UNDERMINES MY ENTIRE QUESTION.",
-  "cipherAlphabet": "FSLBKGHEDOAPVWRJMTNUZQXYIC",
-  "patternKey": "SNOWDRIFT",
-  "hintPlain": "N",
+  "quip": "IF SILENCE IS GOLDEN, THE QUIET CARRIAGE OWES ME A REFUND.",
+  "cipherAlphabet": "NKASVHIYODBULMRWETZFCGQJPX",
+  "patternKey": "KALEIDOSCOPE",
+  "hintPlain": "E",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A mound that the wind builds during a winter storm.",
+    "clue": "A tube that turns a few fragments into shifting symmetrical patterns.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "title": "Clue 1",
-      "path": "cards/2026-11-05/clue-1.svg",
-      "text": "CIPHER W MEANS N."
+      "path": "cards/2026-11-06/clue-1.svg",
+      "text": "CIPHER V MEANS E."
     },
     {
       "kind": "answer",
-      "date": "2026-11-04",
-      "title": "Answer for 2026-11-04 · part 1",
-      "path": "cards/2026-11-05/answer-1.svg",
-      "text": "A RECIPE IS A SHORT STORY WITH A LIST OF SUSPECTS AT THE TOP."
+      "date": "2026-11-05",
+      "title": "Answer for 2026-11-05 · part 1",
+      "path": "cards/2026-11-06/answer-1.svg",
+      "text": "OBJECTION, YOUR HONOR. THAT ANSWER UNDERMINES MY ENTIRE QUESTION."
     }
   ]
 }
