@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-07",
+  "date": "2026-11-09",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-07",
-  "title": "Field Research",
+  "sourceEntryId": "GENERATED-2026-11-09",
+  "title": "Undercover Work",
   "author": "AlanAi",
-  "quip": "EVERY DOG WALK IS A STROLL INTERRUPTED BY URGENT RESEARCH.",
-  "cipherAlphabet": "PQYRJHSLFKENUZWAMDOVBCGTXI",
-  "patternKey": "WHIRLPOOL",
-  "hintPlain": "R",
+  "quip": "SKELETONS MAKE POOR SPIES. THEY NEVER PUT ANY FLESH ON THEIR COVER STORY.",
+  "cipherAlphabet": "VDQXFCZESOJIURNAPWKMGLYBHT",
+  "patternKey": "PINCUSHION",
+  "hintPlain": "T",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A spinning patch of water that can pull floating objects inward.",
+    "clue": "A soft landing for the sharp things on a sewing table.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-07",
+      "date": "2026-11-09",
       "title": "Clue 1",
-      "path": "cards/2026-11-07/clue-1.svg",
-      "text": "CIPHER D MEANS R."
+      "path": "cards/2026-11-09/clue-1.svg",
+      "text": "SOME RECRUITS ARE TOO TRANSPARENT FOR ESPIONAGE."
     },
     {
       "kind": "answer",
-      "date": "2026-11-06",
-      "title": "Answer for 2026-11-06 · part 1",
-      "path": "cards/2026-11-07/answer-1.svg",
-      "text": "IF SILENCE IS GOLDEN, THE QUIET CARRIAGE OWES ME A REFUND."
+      "date": "2026-11-07",
+      "title": "Answer for 2026-11-07 · part 1",
+      "path": "cards/2026-11-09/answer-1.svg",
+      "text": "EVERY DOG WALK IS A STROLL INTERRUPTED BY URGENT RESEARCH."
     }
   ]
 }
