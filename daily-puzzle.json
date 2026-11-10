@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-09",
-  "title": "Undercover Work",
+  "sourceEntryId": "GENERATED-2026-11-10",
+  "title": "Help Wanted",
   "author": "AlanAi",
-  "quip": "SKELETONS MAKE POOR SPIES. THEY NEVER PUT ANY FLESH ON THEIR COVER STORY.",
-  "cipherAlphabet": "VDQXFCZESOJIURNAPWKMGLYBHT",
-  "patternKey": "PINCUSHION",
-  "hintPlain": "T",
+  "quip": "BAKERY VACANCY: MUST BE ABLE TO RISE WITHOUT PROOF OF EXPERIENCE.",
+  "cipherAlphabet": "HTUIQMFZPCNYODWSKVJLERXBAG",
+  "patternKey": "WINDSHIELD",
+  "hintPlain": "E",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A soft landing for the sharp things on a sewing table.",
+    "clue": "It lets a driver see the weather without having to feel it.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "title": "Clue 1",
-      "path": "cards/2026-11-09/clue-1.svg",
-      "text": "SOME RECRUITS ARE TOO TRANSPARENT FOR ESPIONAGE."
+      "path": "cards/2026-11-10/clue-1.svg",
+      "text": "THE INTERVIEW MIGHT BE A PRACTICAL EXAM."
     },
     {
       "kind": "answer",
-      "date": "2026-11-07",
-      "title": "Answer for 2026-11-07 · part 1",
-      "path": "cards/2026-11-09/answer-1.svg",
-      "text": "EVERY DOG WALK IS A STROLL INTERRUPTED BY URGENT RESEARCH."
+      "date": "2026-11-09",
+      "title": "Answer for 2026-11-09 · part 1",
+      "path": "cards/2026-11-10/answer-1.svg",
+      "text": "SKELETONS MAKE POOR SPIES. THEY NEVER PUT ANY FLESH ON THEIR COVER STORY."
     }
   ]
 }
