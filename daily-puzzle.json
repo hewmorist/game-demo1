@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-10",
-  "title": "Help Wanted",
+  "sourceEntryId": "GENERATED-2026-11-11",
+  "title": "Local Knowledge",
   "author": "AlanAi",
-  "quip": "BAKERY VACANCY: MUST BE ABLE TO RISE WITHOUT PROOF OF EXPERIENCE.",
-  "cipherAlphabet": "HTUIQMFZPCNYODWSKVJLERXBAG",
-  "patternKey": "WINDSHIELD",
-  "hintPlain": "E",
+  "quip": "WHEN IS A SHORTCUT A DETOUR? WHEN THE DIRECTIONS BEGIN WITH TRUST ME.",
+  "cipherAlphabet": "YWURBCTKVFJALHPODZXIQENSMG",
+  "patternKey": "HARMONICA",
+  "hintPlain": "H",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "It lets a driver see the weather without having to feel it.",
+    "clue": "A pocket instrument that can make notes as you breathe in or out.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "title": "Clue 1",
-      "path": "cards/2026-11-10/clue-1.svg",
-      "text": "THE INTERVIEW MIGHT BE A PRACTICAL EXAM."
+      "path": "cards/2026-11-11/clue-1.svg",
+      "text": "THINK TWICE BEFORE TAKING THE SCENIC ROUTE."
     },
     {
       "kind": "answer",
-      "date": "2026-11-09",
-      "title": "Answer for 2026-11-09 · part 1",
-      "path": "cards/2026-11-10/answer-1.svg",
-      "text": "SKELETONS MAKE POOR SPIES. THEY NEVER PUT ANY FLESH ON THEIR COVER STORY."
+      "date": "2026-11-10",
+      "title": "Answer for 2026-11-10 · part 1",
+      "path": "cards/2026-11-11/answer-1.svg",
+      "text": "BAKERY VACANCY: MUST BE ABLE TO RISE WITHOUT PROOF OF EXPERIENCE."
     }
   ]
 }
