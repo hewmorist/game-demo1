@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-11",
-  "title": "Local Knowledge",
+  "sourceEntryId": "GENERATED-2026-11-12",
+  "title": "Table Manners",
   "author": "AlanAi",
-  "quip": "WHEN IS A SHORTCUT A DETOUR? WHEN THE DIRECTIONS BEGIN WITH TRUST ME.",
-  "cipherAlphabet": "YWURBCTKVFJALHPODZXIQENSMG",
-  "patternKey": "HARMONICA",
-  "hintPlain": "H",
+  "quip": "PENGUINS PROVE THAT FORMAL WEAR AND EATING WITH YOUR FACE CAN COEXIST.",
+  "cipherAlphabet": "IAWKGROXTMHCFEQBJDPYNSZULV",
+  "patternKey": "CHAMELEON",
+  "hintPlain": "A",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A pocket instrument that can make notes as you breathe in or out.",
+    "clue": "A lizard that can look in two directions at once.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "title": "Clue 1",
-      "path": "cards/2026-11-11/clue-1.svg",
-      "text": "THINK TWICE BEFORE TAKING THE SCENIC ROUTE."
+      "path": "cards/2026-11-12/clue-1.svg",
+      "text": "DRESSING UP IS ONLY HALF OF DINNER ETIQUETTE."
     },
     {
       "kind": "answer",
-      "date": "2026-11-10",
-      "title": "Answer for 2026-11-10 · part 1",
-      "path": "cards/2026-11-11/answer-1.svg",
-      "text": "BAKERY VACANCY: MUST BE ABLE TO RISE WITHOUT PROOF OF EXPERIENCE."
+      "date": "2026-11-11",
+      "title": "Answer for 2026-11-11 · part 1",
+      "path": "cards/2026-11-12/answer-1.svg",
+      "text": "WHEN IS A SHORTCUT A DETOUR? WHEN THE DIRECTIONS BEGIN WITH TRUST ME."
     }
   ]
 }
