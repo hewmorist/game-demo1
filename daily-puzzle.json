@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-12",
-  "title": "Table Manners",
+  "sourceEntryId": "GENERATED-2026-11-13",
+  "title": "Quiet Please",
   "author": "AlanAi",
-  "quip": "PENGUINS PROVE THAT FORMAL WEAR AND EATING WITH YOUR FACE CAN COEXIST.",
-  "cipherAlphabet": "IAWKGROXTMHCFEQBJDPYNSZULV",
-  "patternKey": "CHAMELEON",
-  "hintPlain": "A",
+  "quip": "AT THE LIBRARY, A LOUD WHISPER IS JUST A SHOUT IN A CARDIGAN.",
+  "cipherAlphabet": "LWEJAXYIBPRZDOGUCMNKTFHQVS",
+  "patternKey": "TRAMPOLINE",
+  "hintPlain": "I",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A lizard that can look in two directions at once.",
+    "clue": "A place to jump without going anywhere.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "title": "Clue 1",
-      "path": "cards/2026-11-12/clue-1.svg",
-      "text": "DRESSING UP IS ONLY HALF OF DINNER ETIQUETTE."
+      "path": "cards/2026-11-13/clue-1.svg",
+      "text": "THE RULE IS ABOUT VOLUME, NOT INTENTION."
     },
     {
       "kind": "answer",
-      "date": "2026-11-11",
-      "title": "Answer for 2026-11-11 · part 1",
-      "path": "cards/2026-11-12/answer-1.svg",
-      "text": "WHEN IS A SHORTCUT A DETOUR? WHEN THE DIRECTIONS BEGIN WITH TRUST ME."
+      "date": "2026-11-12",
+      "title": "Answer for 2026-11-12 · part 1",
+      "path": "cards/2026-11-13/answer-1.svg",
+      "text": "PENGUINS PROVE THAT FORMAL WEAR AND EATING WITH YOUR FACE CAN COEXIST."
     }
   ]
 }
