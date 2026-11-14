@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-13",
-  "title": "Quiet Please",
+  "sourceEntryId": "GENERATED-2026-11-14",
+  "title": "Role Reversal",
   "author": "AlanAi",
-  "quip": "AT THE LIBRARY, A LOUD WHISPER IS JUST A SHOUT IN A CARDIGAN.",
-  "cipherAlphabet": "LWEJAXYIBPRZDOGUCMNKTFHQVS",
-  "patternKey": "TRAMPOLINE",
-  "hintPlain": "I",
+  "quip": "RETIREMENT IS WHEN YOU FINALLY GET TO BE THE PERSON WHO ASKS FOR A MANAGER.",
+  "cipherAlphabet": "HYMCFPDKWLJBNSQOVZERGTXAUI",
+  "patternKey": "WEATHERVANE",
+  "hintPlain": "E",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A place to jump without going anywhere.",
+    "clue": "A rooftop pointer that needs no batteries.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "title": "Clue 1",
-      "path": "cards/2026-11-13/clue-1.svg",
-      "text": "THE RULE IS ABOUT VOLUME, NOT INTENTION."
+      "path": "cards/2026-11-14/clue-1.svg",
+      "text": "THE CUSTOMER SIDE OF THE COUNTER LOOKS DIFFERENT."
     },
     {
       "kind": "answer",
-      "date": "2026-11-12",
-      "title": "Answer for 2026-11-12 · part 1",
-      "path": "cards/2026-11-13/answer-1.svg",
-      "text": "PENGUINS PROVE THAT FORMAL WEAR AND EATING WITH YOUR FACE CAN COEXIST."
+      "date": "2026-11-13",
+      "title": "Answer for 2026-11-13 · part 1",
+      "path": "cards/2026-11-14/answer-1.svg",
+      "text": "AT THE LIBRARY, A LOUD WHISPER IS JUST A SHOUT IN A CARDIGAN."
     }
   ]
 }
