@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-14",
-  "title": "Role Reversal",
+  "sourceEntryId": "GENERATED-2026-11-15",
+  "title": "The Cheese Course",
   "author": "AlanAi",
-  "quip": "RETIREMENT IS WHEN YOU FINALLY GET TO BE THE PERSON WHO ASKS FOR A MANAGER.",
-  "cipherAlphabet": "HYMCFPDKWLJBNSQOVZERGTXAUI",
-  "patternKey": "WEATHERVANE",
-  "hintPlain": "E",
+  "quip": "CHEESE TASTING SOUNDS MORE DIGNIFIED IF YOU DON'T CALL IT EATING THE EVIDENCE.",
+  "cipherAlphabet": "FMQACJSEDKVXITRUGNZYWOLPBH",
+  "patternKey": "HOURGLASS",
+  "hintPlain": "I",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A rooftop pointer that needs no batteries.",
+    "clue": "Turn it over to give yourself more time.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "title": "Clue 1",
-      "path": "cards/2026-11-14/clue-1.svg",
-      "text": "THE CUSTOMER SIDE OF THE COUNTER LOOKS DIFFERENT."
+      "path": "cards/2026-11-15/clue-1.svg",
+      "text": "AT THIS TASTING, THE EXHIBITS DON'T LAST LONG."
     },
     {
       "kind": "answer",
-      "date": "2026-11-13",
-      "title": "Answer for 2026-11-13 · part 1",
-      "path": "cards/2026-11-14/answer-1.svg",
-      "text": "AT THE LIBRARY, A LOUD WHISPER IS JUST A SHOUT IN A CARDIGAN."
+      "date": "2026-11-14",
+      "title": "Answer for 2026-11-14 · part 1",
+      "path": "cards/2026-11-15/answer-1.svg",
+      "text": "RETIREMENT IS WHEN YOU FINALLY GET TO BE THE PERSON WHO ASKS FOR A MANAGER."
     }
   ]
 }
