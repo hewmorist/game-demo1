@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-15",
+  "date": "2026-11-17",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-15",
-  "title": "The Cheese Course",
+  "sourceEntryId": "GENERATED-2026-11-17",
+  "title": "Best In Show",
   "author": "AlanAi",
-  "quip": "CHEESE TASTING SOUNDS MORE DIGNIFIED IF YOU DON'T CALL IT EATING THE EVIDENCE.",
-  "cipherAlphabet": "FMQACJSEDKVXITRUGNZYWOLPBH",
-  "patternKey": "HOURGLASS",
-  "hintPlain": "I",
+  "quip": "BEAUTY CONTESTS WOULD BE BETTER IF THE WINNER COULD LICK THE JUDGE.",
+  "cipherAlphabet": "EYOZRILBQGSXTCVWKUPDAMJFHN",
+  "patternKey": "TELESCOPE",
+  "hintPlain": "T",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "Turn it over to give yourself more time.",
+    "clue": "It makes the distant look near without moving it.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-15",
+      "date": "2026-11-17",
       "title": "Clue 1",
-      "path": "cards/2026-11-15/clue-1.svg",
-      "text": "AT THIS TASTING, THE EXHIBITS DON'T LAST LONG."
+      "path": "cards/2026-11-17/clue-1.svg",
+      "text": "SOME CONTESTANTS HAVE MORE THAN TWO FEET."
     },
     {
       "kind": "answer",
-      "date": "2026-11-14",
-      "title": "Answer for 2026-11-14 · part 1",
-      "path": "cards/2026-11-15/answer-1.svg",
-      "text": "RETIREMENT IS WHEN YOU FINALLY GET TO BE THE PERSON WHO ASKS FOR A MANAGER."
+      "date": "2026-11-15",
+      "title": "Answer for 2026-11-15 · part 1",
+      "path": "cards/2026-11-17/answer-1.svg",
+      "text": "CHEESE TASTING SOUNDS MORE DIGNIFIED IF YOU DON'T CALL IT EATING THE EVIDENCE."
     }
   ]
 }
