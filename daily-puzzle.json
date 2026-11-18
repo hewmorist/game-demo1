@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-17",
-  "title": "Best In Show",
+  "sourceEntryId": "GENERATED-2026-11-18",
+  "title": "Perfect Timing",
   "author": "AlanAi",
-  "quip": "BEAUTY CONTESTS WOULD BE BETTER IF THE WINNER COULD LICK THE JUDGE.",
-  "cipherAlphabet": "EYOZRILBQGSXTCVWKUPDAMJFHN",
-  "patternKey": "TELESCOPE",
-  "hintPlain": "T",
+  "quip": "CONDUCTOR: YOU MISSED YOUR CUE. TRIANGLE PLAYER: I WAS SAVING IT FOR THE ENCORE.",
+  "cipherAlphabet": "ONXBYCEZSTPHDRQJKULAVMFWIG",
+  "patternKey": "BAROMETER",
+  "hintPlain": "R",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "It makes the distant look near without moving it.",
+    "clue": "This instrument reads the weight of the air.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "title": "Clue 1",
-      "path": "cards/2026-11-17/clue-1.svg",
-      "text": "SOME CONTESTANTS HAVE MORE THAN TWO FEET."
+      "path": "cards/2026-11-18/clue-1.svg",
+      "text": "ONE MEMBER OF THE ORCHESTRA HAS VERY LITTLE TO DO."
     },
     {
       "kind": "answer",
-      "date": "2026-11-15",
-      "title": "Answer for 2026-11-15 · part 1",
-      "path": "cards/2026-11-17/answer-1.svg",
-      "text": "CHEESE TASTING SOUNDS MORE DIGNIFIED IF YOU DON'T CALL IT EATING THE EVIDENCE."
+      "date": "2026-11-17",
+      "title": "Answer for 2026-11-17 · part 1",
+      "path": "cards/2026-11-18/answer-1.svg",
+      "text": "BEAUTY CONTESTS WOULD BE BETTER IF THE WINNER COULD LICK THE JUDGE."
     }
   ]
 }
