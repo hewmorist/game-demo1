@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-18",
-  "title": "Perfect Timing",
+  "sourceEntryId": "GENERATED-2026-11-19",
+  "title": "Paperwork",
   "author": "AlanAi",
-  "quip": "CONDUCTOR: YOU MISSED YOUR CUE. TRIANGLE PLAYER: I WAS SAVING IT FOR THE ENCORE.",
-  "cipherAlphabet": "ONXBYCEZSTPHDRQJKULAVMFWIG",
-  "patternKey": "BAROMETER",
-  "hintPlain": "R",
+  "quip": "FOLDING A MAP IS ORIGAMI WITH A STRICT NO BIRDS POLICY.",
+  "cipherAlphabet": "OTBLFZXNMUPCJKYVAIEHRDQWSG",
+  "patternKey": "QUICKSAND",
+  "hintPlain": "A",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "This instrument reads the weight of the air.",
+    "clue": "The ground looks solid until you put your weight on it.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "title": "Clue 1",
-      "path": "cards/2026-11-18/clue-1.svg",
-      "text": "ONE MEMBER OF THE ORCHESTRA HAS VERY LITTLE TO DO."
+      "path": "cards/2026-11-19/clue-1.svg",
+      "text": "CIPHER O MEANS A."
     },
     {
       "kind": "answer",
-      "date": "2026-11-17",
-      "title": "Answer for 2026-11-17 · part 1",
-      "path": "cards/2026-11-18/answer-1.svg",
-      "text": "BEAUTY CONTESTS WOULD BE BETTER IF THE WINNER COULD LICK THE JUDGE."
+      "date": "2026-11-18",
+      "title": "Answer for 2026-11-18 · part 1",
+      "path": "cards/2026-11-19/answer-1.svg",
+      "text": "CONDUCTOR: YOU MISSED YOUR CUE. TRIANGLE PLAYER: I WAS SAVING IT FOR THE ENCORE."
     }
   ]
 }
