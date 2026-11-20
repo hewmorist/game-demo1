@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-19",
-  "title": "Paperwork",
+  "sourceEntryId": "GENERATED-2026-11-20",
+  "title": "Unplanned Revision",
   "author": "AlanAi",
-  "quip": "FOLDING A MAP IS ORIGAMI WITH A STRICT NO BIRDS POLICY.",
-  "cipherAlphabet": "OTBLFZXNMUPCJKYVAIEHRDQWSG",
-  "patternKey": "QUICKSAND",
-  "hintPlain": "A",
+  "quip": "MISPRINTS ARE TYPOGRAPHICAL PLOT TWISTS THAT NEVER ASK THE AUTHOR.",
+  "cipherAlphabet": "QIHRXVLSKTYPOJWMZDUFAENGCB",
+  "patternKey": "LANDSLIDE",
+  "hintPlain": "T",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "The ground looks solid until you put your weight on it.",
+    "clue": "Earth and rock moving downhill all at once.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "title": "Clue 1",
-      "path": "cards/2026-11-19/clue-1.svg",
-      "text": "CIPHER O MEANS A."
+      "path": "cards/2026-11-20/clue-1.svg",
+      "text": "CIPHER F MEANS T."
     },
     {
       "kind": "answer",
-      "date": "2026-11-18",
-      "title": "Answer for 2026-11-18 · part 1",
-      "path": "cards/2026-11-19/answer-1.svg",
-      "text": "CONDUCTOR: YOU MISSED YOUR CUE. TRIANGLE PLAYER: I WAS SAVING IT FOR THE ENCORE."
+      "date": "2026-11-19",
+      "title": "Answer for 2026-11-19 · part 1",
+      "path": "cards/2026-11-20/answer-1.svg",
+      "text": "FOLDING A MAP IS ORIGAMI WITH A STRICT NO BIRDS POLICY."
     }
   ]
 }
