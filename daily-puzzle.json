@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-22",
-  "title": "Marching Orders",
+  "sourceEntryId": "GENERATED-2026-11-23",
+  "title": "Rare Wisdom",
   "author": "AlanAi",
-  "quip": "IN A PARADE, EVEN GETTING NOWHERE LOOKS ORGANIZED.",
-  "cipherAlphabet": "EQTWXKPCBYHDZJGRLSNUFOIAVM",
-  "patternKey": "LABYRINTH",
-  "hintPlain": "R",
+  "quip": "WHOEVER NAMED IT COMMON SENSE HAD AN UNCOMMON SENSE OF HUMOR.",
+  "cipherAlphabet": "BEHTARPWJXDZCQVGIMUKLFNYOS",
+  "patternKey": "TURBULENCE",
+  "hintPlain": "S",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A network of passages designed to make the route difficult to find.",
+    "clue": "Irregular movement in air or fluid that makes travel rough.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "title": "Clue 1",
-      "path": "cards/2026-11-22/clue-1.svg",
-      "text": "CIPHER S MEANS R."
+      "path": "cards/2026-11-23/clue-1.svg",
+      "text": "CIPHER U MEANS S."
     },
     {
       "kind": "answer",
-      "date": "2026-11-21",
-      "title": "Answer for 2026-11-21 · part 1",
-      "path": "cards/2026-11-22/answer-1.svg",
-      "text": "THE LAST WORD IN AN ARGUMENT IS OFTEN THE FIRST WORD OF THE NEXT ONE."
+      "date": "2026-11-22",
+      "title": "Answer for 2026-11-22 · part 1",
+      "path": "cards/2026-11-23/answer-1.svg",
+      "text": "IN A PARADE, EVEN GETTING NOWHERE LOOKS ORGANIZED."
     }
   ]
 }
