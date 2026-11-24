@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-23",
-  "title": "Rare Wisdom",
+  "sourceEntryId": "GENERATED-2026-11-24",
+  "title": "Case In Point",
   "author": "AlanAi",
-  "quip": "WHOEVER NAMED IT COMMON SENSE HAD AN UNCOMMON SENSE OF HUMOR.",
-  "cipherAlphabet": "BEHTARPWJXDZCQVGIMUKLFNYOS",
-  "patternKey": "TURBULENCE",
-  "hintPlain": "S",
+  "quip": "COURTROOM GEOMETRY: EVERY GOOD ARGUMENT NEEDS A SOLID ANGLE.",
+  "cipherAlphabet": "ZTUCAHVNYDSJBGKQPXROIMFELW",
+  "patternKey": "FIREBREAK",
+  "hintPlain": "E",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "Irregular movement in air or fluid that makes travel rough.",
+    "clue": "A cleared strip intended to stop a spreading blaze.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "title": "Clue 1",
-      "path": "cards/2026-11-23/clue-1.svg",
-      "text": "CIPHER U MEANS S."
+      "path": "cards/2026-11-24/clue-1.svg",
+      "text": "CIPHER A MEANS E."
     },
     {
       "kind": "answer",
-      "date": "2026-11-22",
-      "title": "Answer for 2026-11-22 · part 1",
-      "path": "cards/2026-11-23/answer-1.svg",
-      "text": "IN A PARADE, EVEN GETTING NOWHERE LOOKS ORGANIZED."
+      "date": "2026-11-23",
+      "title": "Answer for 2026-11-23 · part 1",
+      "path": "cards/2026-11-24/answer-1.svg",
+      "text": "WHOEVER NAMED IT COMMON SENSE HAD AN UNCOMMON SENSE OF HUMOR."
     }
   ]
 }
