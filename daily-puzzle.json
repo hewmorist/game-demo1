@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-24",
-  "title": "Case In Point",
+  "sourceEntryId": "GENERATED-2026-11-25",
+  "title": "Future Briefing",
   "author": "AlanAi",
-  "quip": "COURTROOM GEOMETRY: EVERY GOOD ARGUMENT NEEDS A SOLID ANGLE.",
-  "cipherAlphabet": "ZTUCAHVNYDSJBGKQPXROIMFELW",
-  "patternKey": "FIREBREAK",
+  "quip": "FORTUNE COOKIES ARE TINY PRESS RELEASES FROM AN UNRELIABLE FUTURE.",
+  "cipherAlphabet": "FYPVLSKTOUMZDRQANICXEWGBJH",
+  "patternKey": "PALINDROME",
   "hintPlain": "E",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A cleared strip intended to stop a spreading blaze.",
+    "clue": "A sequence that reads identically from either direction.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "title": "Clue 1",
-      "path": "cards/2026-11-24/clue-1.svg",
-      "text": "CIPHER A MEANS E."
+      "path": "cards/2026-11-25/clue-1.svg",
+      "text": "CIPHER L MEANS E."
     },
     {
       "kind": "answer",
-      "date": "2026-11-23",
-      "title": "Answer for 2026-11-23 · part 1",
-      "path": "cards/2026-11-24/answer-1.svg",
-      "text": "WHOEVER NAMED IT COMMON SENSE HAD AN UNCOMMON SENSE OF HUMOR."
+      "date": "2026-11-24",
+      "title": "Answer for 2026-11-24 · part 1",
+      "path": "cards/2026-11-25/answer-1.svg",
+      "text": "COURTROOM GEOMETRY: EVERY GOOD ARGUMENT NEEDS A SOLID ANGLE."
     }
   ]
 }
