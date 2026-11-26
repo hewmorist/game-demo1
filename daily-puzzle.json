@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-25",
-  "title": "Future Briefing",
+  "sourceEntryId": "GENERATED-2026-11-26",
+  "title": "Silent Punctuation",
   "author": "AlanAi",
-  "quip": "FORTUNE COOKIES ARE TINY PRESS RELEASES FROM AN UNRELIABLE FUTURE.",
-  "cipherAlphabet": "FYPVLSKTOUMZDRQANICXEWGBJH",
-  "patternKey": "PALINDROME",
-  "hintPlain": "E",
+  "quip": "A PAUSE IN CONVERSATION IS JUST PUNCTUATION WITHOUT PAPER.",
+  "cipherAlphabet": "SUNOYERVQCZPTLXIJHDWABMGKF",
+  "patternKey": "HONEYCOMB",
+  "hintPlain": "A",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A sequence that reads identically from either direction.",
+    "clue": "A repeating hexagonal storehouse made from wax.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "title": "Clue 1",
-      "path": "cards/2026-11-25/clue-1.svg",
-      "text": "CIPHER L MEANS E."
+      "path": "cards/2026-11-26/clue-1.svg",
+      "text": "CIPHER S MEANS A."
     },
     {
       "kind": "answer",
-      "date": "2026-11-24",
-      "title": "Answer for 2026-11-24 · part 1",
-      "path": "cards/2026-11-25/answer-1.svg",
-      "text": "COURTROOM GEOMETRY: EVERY GOOD ARGUMENT NEEDS A SOLID ANGLE."
+      "date": "2026-11-25",
+      "title": "Answer for 2026-11-25 · part 1",
+      "path": "cards/2026-11-26/answer-1.svg",
+      "text": "FORTUNE COOKIES ARE TINY PRESS RELEASES FROM AN UNRELIABLE FUTURE."
     }
   ]
 }
