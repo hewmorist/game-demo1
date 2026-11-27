@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "alphabetDate": "2026-10-11",
-  "sourceEntryId": "GENERATED-2026-11-26",
-  "title": "Silent Punctuation",
+  "sourceEntryId": "GENERATED-2026-11-27",
+  "title": "Urgent Savings",
   "author": "AlanAi",
-  "quip": "A PAUSE IN CONVERSATION IS JUST PUNCTUATION WITHOUT PAPER.",
-  "cipherAlphabet": "SUNOYERVQCZPTLXIJHDWABMGKF",
-  "patternKey": "HONEYCOMB",
-  "hintPlain": "A",
+  "quip": "BLACK FRIDAY: THE PRICE GOES DOWN WHILE THE URGENCY GOES UP.",
+  "cipherAlphabet": "TVKUPWQBCFAIDXROLNZGHYMSJE",
+  "patternKey": "LIGHTHOUSE",
+  "hintPlain": "R",
   "machine": {
     "version": 1,
     "wordType": "A noun",
-    "clue": "A repeating hexagonal storehouse made from wax.",
+    "clue": "A coastal tower that warns and guides after dark.",
     "trailVersion": "G3",
     "symbolMode": "occurrence-pool"
   },
   "readerCards": [
     {
       "kind": "clue",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "title": "Clue 1",
-      "path": "cards/2026-11-26/clue-1.svg",
-      "text": "CIPHER S MEANS A."
+      "path": "cards/2026-11-27/clue-1.svg",
+      "text": "CIPHER N MEANS R."
     },
     {
       "kind": "answer",
-      "date": "2026-11-25",
-      "title": "Answer for 2026-11-25 · part 1",
-      "path": "cards/2026-11-26/answer-1.svg",
-      "text": "FORTUNE COOKIES ARE TINY PRESS RELEASES FROM AN UNRELIABLE FUTURE."
+      "date": "2026-11-26",
+      "title": "Answer for 2026-11-26 · part 1",
+      "path": "cards/2026-11-27/answer-1.svg",
+      "text": "A PAUSE IN CONVERSATION IS JUST PUNCTUATION WITHOUT PAPER."
     }
   ]
 }
